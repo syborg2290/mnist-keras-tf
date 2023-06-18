@@ -1,0 +1,47 @@
+# Byte-compiled / optimized files
+*.pyc
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Environment and virtual environment files
+.env
+.env.*
+venv/
+env/
+venv
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
