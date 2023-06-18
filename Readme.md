@@ -6,5 +6,7 @@
 - python -m ipykernal install --user --name=venv
 - pip install tensorflow
 - pip install matplotlib
+- pip install pandas
+- pip install seaborn
 
 - pip freeze > requirements.txt
